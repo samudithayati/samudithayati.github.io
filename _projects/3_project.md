@@ -3,9 +3,8 @@ layout: page
 title: Upscaling and commercializing graphene production.
 description: Value addition to local mineral Graphite
 img: assets/img/p3.jpg
-redirect: https://www.slintec.lk/graphite-graphene-initiatives/
 importance: 3
-category: work
+category: Work
 ---
 
 Sri Lanka stands as a global leader in vein graphite production, renowned for its exceptional purity and distinct crystal structure. Vein graphite, characterized by its high purity and well-defined crystal lattice, serves as an ideal precursor for the extraction of graphene – a single-layer carbon structure resembling a hexagonal honeycomb. The unique attributes of graphene make it highly desirable for diverse applications. Benefiting from a consistent and dependable supply of vein graphite, Sri Lanka holds a competitive edge in producing top-tier graphene at a lower production cost. This advantage enhances the economic viability of large-scale commercial production. The utilization of high-quality starting material ensures the creation of graphene with minimal defects, further emphasizing Sri Lanka's position as a key player in the global graphene market. 
