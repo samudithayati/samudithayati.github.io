@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine-Learning Classification to Predict the Dimensionality of Hybrid Organic-Inorganic Halide Perovskites
-description: a project with a background image
+description:
 img: assets/img/ml_cover.jpg
 importance: 1
 category: Research
